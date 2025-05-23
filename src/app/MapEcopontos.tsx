@@ -22,27 +22,38 @@ const ecopontos: {
   {
     name: "Ecoponto CPA",
     address: "Av. Historiador Rubens de Mendonça, CPA I",
-    position: [-15.563964, -56.083524],
+    position: [-15.567222, -56.080833],
+  },
+  {
+    name: "Ecoponto Resíduos Eletrônicos Shopping Estação",
+    address:
+      "Av. Miguel Sutil, 9300 - Santa Rosa, Cuiabá - MT, 78040-790 (Shopping Estação)",
+    position: [-15.590193473416846, -56.12070844731547],
   },
   {
     name: "Ecoponto Pedra 90",
     address: "Rua 01, Pedra 90",
-    position: [-15.6518, -56.0719],
+    position: [-15.651111, -56.071944],
   },
   {
     name: "Ecoponto Osmar Cabral",
     address: "Av. Oátomo Canavarros, Osmar Cabral",
-    position: [-15.629, -56.097],
+    position: [-15.629167, -56.097222],
   },
   {
     name: "Ecoponto Jardim Leblon",
     address: "Rua 10, Jardim Leblon",
-    position: [-15.573, -56.071],
+    position: [-15.573056, -56.070833],
   },
   {
     name: "Ecoponto Jardim União",
     address: "Rua 5, Jardim União",
-    position: [-15.589, -56.099],
+    position: [-15.589167, -56.099167],
+  },
+  {
+    name: "Ecoponto Jardim Renascer",
+    address: "Jardim Renascer",
+    position: [-15.590833, -56.059444],
   },
 ];
 
